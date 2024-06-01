@@ -1,0 +1,17 @@
+G:\New folder (3)\Inventory\ServiceRegistration\bin\Debug\net8.0\Services.deps.json
+G:\New folder (3)\Inventory\ServiceRegistration\bin\Debug\net8.0\Services.dll
+G:\New folder (3)\Inventory\ServiceRegistration\bin\Debug\net8.0\Services.pdb
+G:\New folder (3)\Inventory\ServiceRegistration\bin\Debug\net8.0\BLL.dll
+G:\New folder (3)\Inventory\ServiceRegistration\bin\Debug\net8.0\DAL.dll
+G:\New folder (3)\Inventory\ServiceRegistration\bin\Debug\net8.0\BLL.pdb
+G:\New folder (3)\Inventory\ServiceRegistration\bin\Debug\net8.0\DAL.pdb
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.AssemblyInfo.cs
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.csproj.Up2Date
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.dll
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\refint\Services.dll
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\Services.pdb
+G:\New folder (3)\Inventory\ServiceRegistration\obj\Debug\net8.0\ref\Services.dll

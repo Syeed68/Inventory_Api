@@ -1,0 +1,14 @@
+G:\New folder (3)\Inventory\DAL\bin\Debug\net8.0\DAL.deps.json
+G:\New folder (3)\Inventory\DAL\bin\Debug\net8.0\DAL.dll
+G:\New folder (3)\Inventory\DAL\bin\Debug\net8.0\DAL.pdb
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.dll
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\refint\DAL.dll
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.pdb
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\ref\DAL.dll
+G:\New folder (3)\Inventory\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+G:\New folder (3)\Inventory\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache

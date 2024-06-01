@@ -1,0 +1,15 @@
+G:\New folder (3)\Inventory\BLL\bin\Debug\net8.0\BLL.deps.json
+G:\New folder (3)\Inventory\BLL\bin\Debug\net8.0\BLL.dll
+G:\New folder (3)\Inventory\BLL\bin\Debug\net8.0\BLL.pdb
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.dll
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\refint\BLL.dll
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\BLL.pdb
+G:\New folder (3)\Inventory\BLL\obj\Debug\net8.0\ref\BLL.dll
+G:\New folder (3)\Inventory\BLL\bin\Debug\net8.0\DAL.dll
+G:\New folder (3)\Inventory\BLL\bin\Debug\net8.0\DAL.pdb
